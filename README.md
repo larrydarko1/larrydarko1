@@ -1,5 +1,3 @@
-**Full Stack Developer & Technical Founder**
-
 ### Tech Stack
 
 **Languages:**  
