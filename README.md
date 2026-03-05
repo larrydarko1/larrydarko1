@@ -16,3 +16,10 @@
 **Platforms & Runtimes:**  
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+
+**Videos: (sometimes i make them to showcase stuff i build)**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.youtube.com/embed/EDf_Tg7kxWM">
+  <img src="https://img.youtube.com/vi/EDf_Tg7kxWM/hqdefault.jpg" width="240" height="180" />
+</a>
+</div>
