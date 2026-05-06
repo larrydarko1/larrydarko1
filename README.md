@@ -22,6 +22,3 @@
     <img src="https://img.youtube.com/vi/EDf_Tg7kxWM/hqdefault.jpg" width="240" height="180" />
   </a>
 </div>
-
-**Sponsor Me** <br>
-<a href="https://www.buymeacoffee.com/larrydarko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 105px !important;" ></a>
